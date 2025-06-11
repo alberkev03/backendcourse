@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Lenovo IdeaPad 3",
+    "categoría": "Tecnología",
+    "descripción": "Notebook con procesador AMD Ryzen 5, 8GB RAM y SSD de 256GB.",
+    "precio": 499999
+  },
+  {
+    "id": 2,
+    "nombre": "Zapatillas Nike Air Max",
+    "categoría": "Calzado",
+    "descripción": "Zapatillas deportivas cómodas para uso diario o entrenamiento.",
+    "precio": 89999
+  },
+  {
+    "id": 3,
+    "nombre": "Silla Gamer Redragon",
+    "categoría": "Muebles",
+    "descripción": "Silla ergonómica con soporte lumbar y diseño gaming.",
+    "precio": 189999
+  },
+  {
+    "id": 4,
+    "nombre": "Teléfono Samsung Galaxy S22",
+    "categoría": "Tecnología",
+    "descripción": "Smartphone con pantalla AMOLED de 6.1\" y cámara triple.",
+    "precio": 649999
+  },
+  {
+    "id": 5,
+    "nombre": "Auriculares JBL Tune 510BT",
+    "categoría": "Tecnología",
+    "descripción": "Auriculares inalámbricos con sonido puro y batería de larga duración.",
+    "precio": 29999
+  },
+  {
+    "id": 6,
+    "nombre": "Mochila Urbana Kossok",
+    "categoría": "Accesorios",
+    "descripción": "Mochila resistente con compartimento para notebook de hasta 15\".",
+    "precio": 24999
+  },
+  {
+    "id": 7,
+    "nombre": "Cámara Canon EOS Rebel T7",
+    "categoría": "Tecnología",
+    "descripción": "Cámara réflex digital con lente 18-55mm incluida.",
+    "precio": 379999
+  },
+  {
+    "id": 8,
+    "nombre": "Heladera Samsung No Frost",
+    "categoría": "Electrodomésticos",
+    "descripción": "Heladera con freezer superior y tecnología Digital Inverter.",
+    "precio": 789999
+  },
+  {
+    "id": 9,
+    "nombre": "Smart TV LG 55'' 4K UHD",
+    "categoría": "Tecnología",
+    "descripción": "Televisor inteligente con WebOS y control por voz.",
+    "precio": 499999
+  },
+  {
+    "id": 10,
+    "nombre": "Mesa Ratona de Madera",
+    "categoría": "Muebles",
+    "descripción": "Mesa ratona estilo rústico hecha en madera maciza.",
+    "precio": 69999
+  },
+  {
+    "id": 11,
+    "nombre": "Lavarropas Drean Next 6.06",
+    "categoría": "Electrodomésticos",
+    "descripción": "Lavarropas automático de carga frontal con 23 programas de lavado.",
+    "precio": 349999
+  },
+  {
+    "id": 12,
+    "nombre": "Patineta Eléctrica Xiaomi Mi",
+    "categoría": "Movilidad",
+    "descripción": "Scooter eléctrico con batería de larga duración y plegable.",
+    "precio": 429999
+  },
+  {
+    "id": 13,
+    "nombre": "Guitarra Criolla Gracia",
+    "categoría": "Instrumentos",
+    "descripción": "Guitarra acústica ideal para principiantes y estudiantes.",
+    "precio": 44999
+  },
+  {
+    "id": 14,
+    "nombre": "Microondas BGH Quick Chef",
+    "categoría": "Electrodomésticos",
+    "descripción": "Microondas digital de 20 litros con función descongelar.",
+    "precio": 62999
+  },
+  {
+    "id": 15,
+    "nombre": "Cafetera Express Philips",
+    "categoría": "Electrodomésticos",
+    "descripción": "Cafetera automática con molinillo integrado y espumador de leche.",
+    "precio": 299999
+  },
+  {
+    "id": 16,
+    "nombre": "Monitor Samsung 24'' Full HD",
+    "categoría": "Tecnología",
+    "descripción": "Monitor LED con panel IPS y frecuencia de 75Hz.",
+    "precio": 124999
+  },
+  {
+    "id": 17,
+    "nombre": "Set de Ollas Essen",
+    "categoría": "Cocina",
+    "descripción": "Juego de ollas de aluminio fundido apto para todo tipo de cocinas.",
+    "precio": 199999
+  },
+  {
+    "id": 18,
+    "nombre": "Colchón Somier 2 Plazas",
+    "categoría": "Muebles",
+    "descripción": "Colchón de resortes con base y patas incluidas.",
+    "precio": 259999
+  },
+  {
+    "id": 19,
+    "nombre": "Tablet Amazon Fire HD 10",
+    "categoría": "Tecnología",
+    "descripción": "Tablet con pantalla de 10.1 pulgadas y almacenamiento de 64GB.",
+    "precio": 134999
+  },
+  {
+    "id": 20,
+    "nombre": "Bicicleta Venzo R26 MTB",
+    "categoría": "Deportes",
+    "descripción": "Bicicleta de montaña con cuadro de aluminio y 21 velocidades.",
+    "precio": 214999
+  }
+]
